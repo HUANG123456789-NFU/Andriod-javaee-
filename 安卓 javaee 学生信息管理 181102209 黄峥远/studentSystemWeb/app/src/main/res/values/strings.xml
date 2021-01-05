@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">学生信息管理</string>
+    <string name="user">用户名</string>
+    <string name="passward">密码</string>
+    <string name="name">姓名</string>
+    <string name="age">年龄</string>
+    <string name="major">专业</string>
+    <string name="no">学生学号</string>
+    <string name="hint">目前学生信息为空</string>
+</resources>
